@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vileshoes/static/css/main.006a470d.css",
+    "main.js": "/vileshoes/static/js/main.f04195b4.js",
+    "index.html": "/vileshoes/index.html",
+    "main.006a470d.css.map": "/vileshoes/static/css/main.006a470d.css.map",
+    "main.f04195b4.js.map": "/vileshoes/static/js/main.f04195b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006a470d.css",
+    "static/js/main.f04195b4.js"
+  ]
+}
